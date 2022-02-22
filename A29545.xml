@@ -1,0 +1,588 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The following proposals for, and accounts of, a national land-bank having been printed at London its proveable many gentlemen who would have subscribed thereto, by reason of the distance of their dwelling from thence, have had nothing, or had but an imperfect account of it, for informing whom true copies of several of Mr. Brisco's papers are herewith reprinted ...</title>
+            <author>Briscoe, John, fl. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29545</idno>
+            <idno type="STC">Wing B4750</idno>
+            <idno type="STC">ESTC R25948</idno>
+            <idno type="EEBO-CITATION">09300348</idno>
+            <idno type="OCLC">ocm 09300348</idno>
+            <idno type="VID">42653</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29545)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42653)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1303:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The following proposals for, and accounts of, a national land-bank having been printed at London its proveable many gentlemen who would have subscribed thereto, by reason of the distance of their dwelling from thence, have had nothing, or had but an imperfect account of it, for informing whom true copies of several of Mr. Brisco's papers are herewith reprinted ...</title>
+                  <author>Briscoe, John, fl. 1695.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Reprinted by George Mosman by order of Joseph Blake,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bank of England.</term>
+               <term>Land banks --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:42653:1" rendition="simple:additions"/>
+            <head>The following Propoſals for, and Accounts of, <hi>a National Land-Bank</hi> having been Print<g ref="char:EOLhyphen"/>ed at <hi>London.</hi> Its proveable many Gentle<g ref="char:EOLhyphen"/>men who would have Subſcribed thereto, by Reaſon of the diſtance of their dwelling from thence have heard nothing, or had but an Imperfect account of it; for informing whom, true Copies of ſeveral of Mr <hi>Briſco</hi>'s Papers are herewith Reprinted, in order to be diſ<g ref="char:EOLhyphen"/>perſed in ſeveral Counties.</head>
+            <div type="paper">
+               <head>The Free-hold Eſtates of <hi>England,</hi> or <hi>England</hi> it ſelf the beſt fund or ſecurity</head>
+               <p>AFTER ſo many aſſurances given by ſome perſons to furniſh the Freeholders of <hi>England</hi> with Money, upon the Securities of their Eſtates, one would have thought no Landed-Man in the Kingdom could have remained un<g ref="char:EOLhyphen"/>der any Difficulty to raiſe Money for ſupplying his Occaſions, or to clear off his Incumbrances, and that Leaſes of Ejectment, and <hi>Sub-poena</hi>'s in Chancery to fore-cloſe <hi>Equities of Redemption,</hi> would have been out of Date; but notwithſtanding all that hath been promiſed, we find the Free<g ref="char:EOLhyphen"/>holders under as bad if not worſe Circumſtances than ever. The Bank of <hi>England,</hi> who have cauſed many Advertiſments to be inſerted in the <hi>Gazzetes,</hi> of furniſhing the Free<g ref="char:EOLhyphen"/>holders with Money at 5<hi>l. per cent. per Annum,</hi> not meeting with one Title in an hun<g ref="char:EOLhyphen"/>dred that will pleaſe them, have turn'd the Current of their Buſineſs another way, and are ſetting up Banks in Foreign Countries, leaving the poor Freeholders to ſhift for themſelves.</p>
+               <p>The <hi>Orphans Bank</hi> have ſet out an Order to lend Money upon a depoſite of Gold or Silver, and to diſcount Bills of Exchange at 3.<hi>l. per Cent. per Annum,</hi> but mention no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one word of lending Money on Land-Security.</p>
+               <p>In fine, tho all make uſe of that pleaſing and popular Argument, of eaſing the Free<g ref="char:EOLhyphen"/>holders, and raiſing the Value of Land, yet not one ſtep hath been taken therein, nor muſt we expect ever will, ſo long as the Management is in private Hands, and not by Perſons appointed either by the publick, or by the Freeholders themſelves; but all that hath been ſaid or promiſed (if one may have leave to judge by Mens Actions) ſeems only a pretence, without the leaſt Reality or Purpoſe to perform the ſame. Now when the <hi>Revenue of the Exciſe,</hi> the <hi>Annual Income ſettled on the Orphans,</hi> the <hi>Lottery-Tickets,</hi> the <hi>Annuities for lives,</hi> &amp; indeed almoſt any thing that has but the face of a Security, altho de<g ref="char:EOLhyphen"/>pending on Contingencies, are made uſe of for Funds whereupon to iſſue out Bills, and have ſome of them actual Credit for three times more than the real Value, it cannot but ſeem ſtrange to any conſidering Man, that the <hi>Freehold Estates</hi> of <hi>England</hi> or rather <hi>England</hi> it ſelf, which all muſt acknowledge to be the very <hi>Baſis</hi> of thoſe Funds ſhould be diſre<g ref="char:EOLhyphen"/>garded; and the iſſuing out Bills on Land-Security for a far leſs Sum than the Value, ſhould be rediculed, and made a Jeſt of; yet ſome People have had ſo little Senſe as to paſs their Cenſures on my Propoſals to the Parliament, for iſſuing out <hi>Bills of Credit</hi> on Land-Security; and the Bill which was brought in by Mr. <hi>Brockman</hi> this laſt Seſſion by Order of the Honourable the Houſe of Commons, entituled, <hi>An Act for the improvement of the Freehold Estates of <hi>England,</hi> and the encouragement of Trade,</hi> and which was referred to a
+<pb n="2" facs="tcp:42653:2"/> Committee who made a conſiderable Progreſs therein, was by ſome Perſons oppoſed, for no other Reaſon as I could ever hear of, but becauſe it would have been prejudicial to their particular Intereſts. I did therefore once deſign to have Printed a Breviate of the ſaid Bill, that all Perſons might have ſeen whether the ſame was reaſonable or practicable; but upon farther Conſideration I forbore it, finding too many led more by Humour than Reaſon, and that they will not believe any thing poſſible to be done, untill they ſee it effected. I ſhall therefore (being encouraged ſo to doe by ſeveral Perſons of great Worth) reduce the ſame into practice, and to lay the Foundation of a <hi>National Bank</hi> (and probably the greateſt Bank in the World) ſo far as it is capable of being done, with<g ref="char:EOLhyphen"/>out the Aſſiſtance of an Act of Parliament; ſtill ſubmitting the ſame to ſuch Regulations, Alterations, or Amendments, as the great Council of the Kingdom ſhall in their Wiſdom at any time hereafter think needful to make.</p>
+               <p>Some perhaps who are deſirous to keep the Freeholders Necks ſtill under the Servile Yoke of 6<hi>l. per Cent. per Annum</hi> Intereſt, beſides other Charges, which with the Taxes hath eaten up ſeveral of their Eſtates, may make trivial Objections againſt theſe my Propoſals, and demand where will the Money be found to anſwer the Bills of Credit? But I doe not think my ſelf obliged to acquaint every impertinent Queriſt with the Me<g ref="char:EOLhyphen"/>thods I have to propoſe for raiſing a Fund of Money: it is ſufficient I have hitherto born the whole Charge of proſecuting this Buſineſs, which when accompliſhed will be ſo greatly for the Freeholders Advantage, and <hi>will more than double the Value of their Eſtates.</hi> All that I deſire of the Freeholders is, that they will enable me to do it by ſubſcribing, and ſettling their Eſtates in Truſt upon credible and ſubſtantial Perſons of their own nam<g ref="char:EOLhyphen"/>ing, and to chooſe ſome from among themſelves to put in practice thoſe Methods I have to lay before them, ſo far forth as they ſhall appear agreeable to Reaſon and no farther.</p>
+               <list>
+                  <head>Propoſals for Subſcriptions for a National Land Bank.</head>
+                  <item>THat Books ſhall be laid open on Tueſday the 11<hi>th</hi> of this inſtant <hi>June,</hi> at the Cham<g ref="char:EOLhyphen"/>bers of <hi>Thomas Gooding</hi> Serjeant at Law, in <hi>Field</hi>-Court in <hi>Grayes</hi>-Inn. At <hi>Philip Neave</hi> Eſq; his Chambers, the ſecond Stair-Caſe of the Paper-Buildings in the Inner Temple. At <hi>Lawrence Braddon</hi> Eſq; his Chambers. Number 4. the ſecond Stair-Caſe in the new Square at <hi>Lincolns</hi> Inn. At the houſe of <hi>Robert Weſt,</hi> Eſq; the Corner of <hi>Buckingham</hi>-Court near <hi>Scotland</hi>-yard. At Mr, <hi>John Smith</hi>'s in <hi>Exchange-Allay:</hi> And at Mr <hi>Humphrey Hackſhaw</hi>'s in <hi>Lothbury</hi> near the Royal Exchange in <hi>London.</hi> Where any Perſons by them<g ref="char:EOLhyphen"/>ſelves or others, may Subſcribe <hi>Lands, Tenements</hi> or <hi>Hereditaments,</hi> whether <hi>Free-hold Copy-hold,</hi> or <hi>Leaſe-hold,</hi> to what yearly Value they pleaſe, to be ſettled upon ſuch <hi>Truſtees</hi> as ſhall be choſen by the Subſcribers, for <hi>Funds</hi> to iſſue out <hi>Bills of Credit</hi> upon the ſecurity of ſuch Eſtates.</item>
+                  <item>That an account ſhall be publiſh'd in Print every Month of the yearly value of the Eſtates Subſcribed.</item>
+                  <item>That ſo ſoon as 100000<hi>l. per Annum</hi> ſhall be ſubſcribed, a liſt of the Subſcribers ſhall be Printed Alphabetically, with the ſeveral yearly Values by them and each of them Subſcribed, and timely Notice given to the ſeveral Subſcribers, to meet together in ſome publick place within the Cities of <hi>London</hi> or <hi>Weſtminſter,</hi> to chooſe by the Majority of Votes, ſuch and ſo many credible Perſons as they or the Major part of them ſhall think fit to be <hi>Truſtees</hi> of all the Eſtates to be ſettled on ſuch <hi>Truſtees</hi> in Truſt for the aforeſaid Purpoſes.</item>
+                  <item>That the Subſcribers ſhall at the ſame time chooſe by the Majority of Votes, ſuch and ſo many to be <hi>Directors</hi> or <hi>Managers,</hi> and alſo one or more <hi>Treaſurer</hi> or <hi>Treaſurers</hi> of the ſaid intended <hi>Land-Bank,</hi> to be continued in their reſpective Offices for ſo long time as the Subſcribers or Major part of them ſhall think fit, and no longer.</item>
+                  <item>That each Subſcriber ſhall have one Vote in the Election of Truſtees, Managers and Treaſurers, for each 50<hi>l. per Annum,</hi> by him or her ſubſcribed.</item>
+                  <item>That any Perſon or Perſons who ſhall ſettle his or their Eſtate or Eſtates upon the ſaid <hi>Trustees,</hi> ſhall at any time after ſuch Settlement of ſuch Eſtate or Eſtates, have in Money or Bills of Credit, to the Value of three fourth parts of his or their Eſtate or Eſtates ſo ſettled, he or they paying to the ſaid <hi>Directors</hi> or <hi>Managers</hi> Two Pence <hi>per Cent, per Diem,</hi> being 3<hi>l.</hi> 0<hi>s.</hi> 10<hi>d. per Cent. per Annum,</hi> for Intereſt and all other Charges whatſoever, and no more; and may alſo repay to the ſaid <hi>Directors</hi> or <hi>Managers</hi> all or any part of the ſame, at any time or times whenſoever, and as it ſhall beſt ſute with his or their Conveniency to repay the ſame; but no Man's Eſtate is to ſtand or be engaged for any other or greater Sum than what he himſelf ſhall actually receive and be indebted for.</item>
+               </list>
+               <p>* <hi>The Propoſer doubts not but he ſhall be able to reduce the Interest which the Freeholders is to pay to leſs than <hi>3 l. per Cent. per Annum,</hi> as will appear by the Conditions in the Subſcription-Books, to which all Perſons for farther Satisfaction are referr'd.</hi>
+               </p>
+               <closer>
+                  <signed>JOHN BRISCOE</signed>
+               </closer>
+            </div>
+            <div type="paper">
+               <pb n="3" facs="tcp:42653:2"/>
+               <head>An Account of the National Land-Bank.</head>
+               <p>I HAVE in my Treatiſe, Intituled, <hi>A Diſcourſe on the Late Fund, &amp;c.</hi> ſhown That Trade is the Medium of Riches; and Money the Medium of Trade: That as no Nation can grow rich without Trade, ſo Trade cannot be carried on without Money: That what any Nation appoints to be the Medium of their Trade, the ſame is the Money of that Nation<g ref="char:punc">▪</g> That Money ought to carry or convey along with it an <hi>intriſick Value,</hi> that the Receiver may be no Loſer thereby: That Gold and Silver being made the medium of our Trade, if we have not a Sufficiency of thoſe Commodities, our Trade will be at a Stand for want of Money to carry it on, except ſome other Medium be e<g ref="char:EOLhyphen"/>ſtabliſh'd, or ſuch Defect ſupplied by Credit: That whereſoever a Credit is given, if there be not a <hi>Valuable Fund</hi> to anſwer it, ſuch Credit is unſecure: That we have not Money enough in <hi>England</hi> to maintain our Trade, and are forced to extend our Credit to ſupply that Defect: That our Credit for want of a <hi>certain Fund</hi> hath been generally unſafe, and many by that means have been great Loſers, and not a few ruined: That this Scarcity of Money, occaſions High Intereſt. That <hi>High intereſt</hi> is ruinous to Trade, and fatal to Landed-men, and will bring down the Value of their Eſtates: That we are under a neceſſity to create ſome new <hi>Species</hi> of Money, our preſent <hi>Species</hi> being de<g ref="char:EOLhyphen"/>baſed and melted down; or to eſtabliſh ſome ſecure <hi>Fund of Credit</hi> to ſupply the Want of Money, or elſe we muſt expect a <hi>Decay of our Trade.</hi>
+               </p>
+               <p>I Propoſed to the <hi>Honourable Houſe of Commons</hi> the laſt Seſſion of Parliament, a Method to make the <hi>Lands of England,</hi> or rather <hi>England it ſelf,</hi> a Medium of Trade and Com<g ref="char:EOLhyphen"/>merce as it conveys an <hi>intrinſick Value,</hi> or a <hi>Fund of Credit</hi> as it is the <hi>moſt undoubted Security;</hi> ſhewing how it was eaſily reducible to Practice, and might be rendred, either way, as uſeful in Trade and Commerce, as <hi>Gold</hi> or <hi>Silver:</hi> I ſhewed the many Advantages that the whole Nation would reap, if my ſaid propoſals paſſed into an act, <hi>viz. That his Majeſty would more eaſily, and upon better Terms, be ſupplied with Money: That it will encreaſe our Trade, enrich the Nation, encourage Handicrafts and Artificers, and employ Thouſands who are in a ſtarving Condition: That it will double Gentlemens yearly Eſtates; enable ſuch whoſe Eſtates are mortgaged to clear their Incumbrances, and with eaſe to raiſe Portions for their Children, and that it will undoubtedly bring Land to 40 Years Purchaſe;</hi> with ſeveral other advantages too tedious to enumerate: and do therefore for brevity ſake, refer thoſe who deſire farther Satisfaction, to my fore mentioned Book, or to a <hi>late printed paper</hi> publiſh'd by Dr. <hi>Barbone,</hi> intituled, <hi>An Account of the Land-Bank,</hi> which the Author hath moſtly collected out of my Writings: But the immediate Supply for ſupport of the War, and conſequently of the Goverment, with ſome other things interveening towards the Cloſe of the Seſſions, poſt-poned the Bill, that it did not paſs through the Houſe, which I hope notwithſtanding to ſee effected the next Seſſions of Parliament.</p>
+               <p>I ſhall however in the mean time (for the benefit and Advantage of the Landed Men) endeavour with their Aſſiſtance, to reduce the ſame into practice, ſo far as it is capable of being done without an Act of Parliament, and <hi>to turn their Eſtates</hi> into <hi>a Living Stock,</hi> by making them as ſerviceable as ſo much <hi>ready Money:</hi> But becauſe it will be very difficult to effect the ſame, if the Managment be in ſuch <hi>privat hands,</hi> whoſe Intereſts are ſeparate and diſtinct from <hi>Freeholders,</hi> and who will therefore moſt certainly prefer their own <hi>privat Advantage,</hi> before the <hi>publick Good;</hi> I propoſe <hi>That</hi> (till the Parliament ſhall otherwiſe order and direct) <hi>the whole Truſt and Goverment of this intended National Land-Bank, ſhall be in the hands of ſuch whom the Landed-Men themſelves ſhall nominate and appoint;</hi> and from whom they may expect juſt and candid Dealing: But I muſt make it my Requeſt, that Gentlemen (for their own Good) will not be too inquiſitive into my Methods of managment, till they ſhall put me into a Capacity, by a <hi>competent number of Subſcriptions,</hi> to reduce the ſame into practice; which I think I may reaſonably deſire, ſince they will not be at a <hi>Penny Charge,</hi> nor under the <hi>leaſt Obligation</hi> to ſettle their Eſtates, unleſs after they ſhall have choſen the <hi>Truſtees</hi> and <hi>Directors,</hi> they ſhall approve of the Methods I ſhall then propoſe, and ſhall thereupon ſettle their Eſtates in Truſt, upon the ſaid Truſtees for the foreſaid purpoſes: And the rather, becauſe <hi>ſome Perſons have lately attempted to raiſe a Bank upon the Foundation of my fore-mentioned Book,</hi> only with this Difference; that whereas I have propoſed, <hi>That the Landed-Men whoſe Eſtates muſt be the the Fund, may have Money for</hi> 3 l. 0 s. 10 d. per Cent per Annum <hi>Intereſt, and have the Government and Profit of the Bank, and conſequently the Managment of their own Eſtates:</hi> The ſaid Gentlemen have propoſed to lend Money to the Land-Men, <hi>whoſe Eſtates alſo
+<pb n="4" facs="tcp:42653:3"/> are to be the Fund,</hi> for 3<hi>l.</hi> 10<hi>s. per cent, per annum,</hi> and <hi>to inveſt the Government and profits of their Bank in the Subſcribers of 100000 l. in Money;</hi> and therefore <hi>I muſt expect they will not fail to put in practice any Method I ſhall propoſe, which may be a Furtherance to them in their ſaid Deſign.</hi>
+               </p>
+               <p>I underſtand ſome Gentlemen are offended at a paſſage in my late printed paper of Propoſals, being an Anſwer to a Queſtion, which I ſuppoſed ſome, who are Enemies to this my Deſigne, might make, <hi>viz. Where will the Money be found to anſwer the Bills of Credit?</hi> To which I replied; <hi>That I do not think my ſelf obliged to acquaint every Impertinent Querist, with the Methods</hi> I <hi>have to propoſe for raiſing a Fund of Money.</hi> Now had this Reply been applicable to the Freeholders, it had been a juſt ground of Exception; but ſince it refers to theſe only, who may <hi>make trivial Objections,</hi> and ſtart ſuch Queries, on purpoſe to baffle my propoſals, and thereby to deprive the Freeholders of thoſe Ad<g ref="char:EOLhyphen"/>vantages, which otherwiſe they may enjoy, (as the words joined with thoſe preceeding can admit of no other Conſtruction) I hope there is no reaſon for any Freeholder to be diſ<g ref="char:EOLhyphen"/>pleaſed with the Expreſſion. I ſhall only ſay, That I ſhall be alwayes ready to impart to the Freeholders any thing that may be for their Intereſt; but do not think it is con<g ref="char:EOLhyphen"/>ſiſtent with prudence for the foreſaid Reaſon, to diſcover my Methods of raiſing Money, till time ſhall have ſo ripened things, that I may at the ſame time be ready to put my propſals into execution. So far I dare venter to ſay, that I can demonſtrate to any Gentleman, That <hi>Money cannot be wanting,</hi> and that I have Methods to propoſe for raiſing Money that will in all probability bring in <hi>Far greater Sums,</hi> than will be needful.</p>
+               <p>Having therefore engaged my ſelf, with much Pains, Charge and Trouble, to ſupport and advance the <hi>Freeholders</hi> Intereſt, I cannot doubt, for their own Good, they will not inſiſt upon the Nicety of words; but rather well conſider my propoſals, of which I pre<g ref="char:EOLhyphen"/>ſent them with the following <hi>Abstract,</hi> which I deſire notwithſtanding may be ſubmitted to ſuch <hi>Regulations</hi> or <hi>Amendments,</hi> as the Great Council of the Kingdom ſhall in their Wiſdom at any time hereafter think needful to make.</p>
+               <list>
+                  <head>PROPOSALS for a National Land-Bank.</head>
+                  <item>THAT whereas Books were laid open the 11<hi>th.</hi> of this inſtant <hi>June,</hi> at <hi>Thomas Gooding,</hi> Sergeant at Law, his Chambers in <hi>Grays-Inn.</hi> At <hi>Philip Neve</hi> Eſq; his Chamber, the ſecond Stair-caſe of the Paper Buildings in the <hi>Inner-Temple.</hi> At <hi>Lawrence Braddon</hi> Eſq; his Chamber, Number 4. the ſecond Stair caſe in the New Square at <hi>Lin<g ref="char:EOLhyphen"/>colns-Inn.</hi> At the Houſe of <hi>Robert Weſt</hi> Eſq; the Corner of <hi>Buckingham-Court</hi> near <hi>Scotland Yard.</hi> At Mr. <hi>John Smith</hi>'s in <hi>Exchange-Alley:</hi> And at Mr. <hi>Humphrey Hackſhaw</hi>'s in <hi>Loth<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ury</hi> near the <hi>Royal-Exchange</hi> in <hi>London:</hi> Where any perſon by themſelves, or others, may ſubſcribe <hi>Lands Tenements</hi> or <hi>Hereditaments,</hi> whether <hi>Free-hold</hi> Copy-hold, or <hi>Leaſe-hold,</hi> to what Yearly Value they pleaſe, to be ſettled upon ſuch <hi>Truſtees,</hi> as ſhall be choſen by the <hi>Subſcribers,</hi> for a <hi>Fund</hi> to iſſue out <hi>Bills of Credit</hi> upon the Security of ſuch Eſtates.</item>
+                  <item>That an Account ſhall be publiſhed every Month of the Yearly Value of the Eſtates ſubſcribed.</item>
+                  <item>That when 100000<hi>l. per annum</hi> ſhall be ſubſcribed, a Liſt of the Subſcribers ſhall be printed alphabetically with the ſeveral Yearly Values by them ſubſcribed, and timely notice given them to meet together in ſome publick Place within the Cities of <hi>London</hi> or <hi>Weſtminſter,</hi> to chooſe by the Majority of Votes, ſuch, and ſo many credible Perſons as the major Part of them ſo mett together ſhall think fit, to be <hi>Truſtees</hi> of all Eſtates, to be ſettled on ſuch <hi>Truſtees in Trust,</hi> for the foreſaid Purpoſes.</item>
+                  <item>That the ſaid Subſcribers ſhall at the ſame time in like manner, chooſe ſuch and ſo many, to be <hi>Directors</hi> or <hi>Managers,</hi> and one or more <hi>Treaſurer</hi> or <hi>Treaſurers</hi> of the ſaid intended <hi>National Land-Bank,</hi> to be continued in their reſpective Offices for ſo long time as the major part of the Subſcribers ſhall t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ink fit, and no longer.</item>
+                  <item>That every Subſcriber ſhall have <hi>one Vote</hi> in the Election of <hi>Trustees, Managers,</hi> and <hi>Treaſurers,</hi> for each 50<hi>l. per annum</hi> by him or her ſubſcribed.</item>
+                  <item>That the <hi>Directors,</hi> or major Part of them, ſhal appoint <hi>Council</hi> to examine the Titles of Eſtates, and <hi>Secretaries Book-keepers,</hi> or other <hi>under Officers,</hi> and agree upon <hi>Rules Orders,</hi> and <hi>Methodes</hi> for the better Management of the ſaid <hi>intended Land-Bank,</hi>
+                  </item>
+                  <item>That the profit of the Bank ſhall be divided among the Subſcribers in proportion to their ſeveral Subſcriptions,</item>
+                  <item>That any perſon who ſettles his Eſtate, may at any time after ſuch Settlement, have <hi>three fourth parts</hi> of the Value of ſuch Eſtates in <hi>Money,</hi> or <hi>Bills of Credit,</hi> paying to the
+<pb n="5" facs="tcp:42653:3"/> 
+                     <hi>Directors</hi> or <hi>Managers</hi> 2<hi>d. per cent per diem,</hi> being 3<hi>l.</hi> 0<hi>s.</hi> 10<hi>l. per cent, per annum</hi> for Intereſt and all other Charges, and no more; and may repay all, or any part of the ſame, at any time, as it ſhall beſt ſute with his Conveniency,</item>
+                  <item>That the Intereſt is to be paid every 25<hi>th</hi> Day of <hi>March,</hi> and 29<hi>th</hi> Day of <hi>September,</hi> or within one Month after.</item>
+                  <item>That no perſon who ſhall ſettle his Eſtate on the ſaid Truſtees for the foreſaid Uſes, nor the Eſtate of ſuch Perſons, ſhall be chargeable for more Money than what he himſelf ſhall take up of the Directors.</item>
+                  <item>That the Subſcribers ſhall have publick notice to meet once every <hi>ſix Months,</hi> and in default of ſuch notice, any five Perſons intereſſed<g ref="char:punc">▪</g> may ſummon a <hi>General-meeting</hi> of all the Perſons intereſſed, where they may diſplace any <hi>Director, Manager,, Treaſurer,</hi> or <hi>other Officer,</hi> and chooſe others in his or their place or places.</item>
+               </list>
+               <p>Note, that any ſubſcriber may have up his Deed of Settlement at any time upon de<g ref="char:EOLhyphen"/>mand, upon his Paiment of principal and Intereſt due upon his Eſtate,</p>
+               <p>
+                  <hi>A Book of Subſcriptions is ſince laid open at Mr. <hi>Nicholas Hayward's</hi> Publick Nottary in <hi>Thredneedle ſtreet</hi> behind the <hi>Royal-Exchange.</hi>
+                  </hi>
+               </p>
+               <closer>
+                  <signed>JOHN BRISCOE.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To the LORDS Spiritual and Temporal and Commons in Parliament Aſſembled.</head>
+               <opener>
+                  <salute>May it pleaſe Your Honours</salute>
+               </opener>
+               <p>THE laſt Seſſions of Parliament, I preſented You with Propoſals for ſetting up a <hi>National Land-Bank,</hi> and in order thereunto a Bill was brought in, by order of the Honourable <hi>the Houſe of Commons,</hi> and was referred to a Committee, who made a conſiderable Progreſs therein: But the Bill not paſſing through the Houſe, for want of Time, I did not intend to put my Propoſals in practice untill the next Seſſions of Parliament, fearing it might be look'd upon as a Diſ<g ref="char:EOLhyphen"/>reſpect to Your Honours (wherein I have always been very cautious of offending) to begin a Buſineſs of ſo great Importance, before I had an Authority from Your Honours for my ſo doing: But ſome Gentlemen who pretended they could not underſtand my <hi>Scheme,</hi> while the Bill was depending before the Houſe of Commons, have formed the Model of a Bank out of the Book I preſented to Your Honours; only, to make it look like a Novelty, have ſpoil'd my Deſigne by ſome altera<g ref="char:EOLhyphen"/>tions of their own.</p>
+               <p>It is doubtleſs <hi>a Duty incumbent upon all the Subjects</hi> (as I mentioned in my Treatiſe, Intituled <hi>A Diſcourſe of the late Funds,</hi> which I preſented to both Houſes of Parliament) <hi>to propoſe to Your Honours whatſoever may occur to any of them for the Service of the Publick,</hi> and whoſoever ſpends his Time and Eſtate in ſo doing preſumes he is ſafe, and under Your Honours Protection: if not, it will certainly be a Bar to all future Ingenuity, and will for ever diſcourage Perſons from offering any thing to Your Honours that may tend to the Good of the Nation. But I am well ſatisfied Your Honours will not countenance any, who ſhall go about to deprive me of the Fruit of my Induſtry; and therefore tho I have been often told, that the Per<g ref="char:EOLhyphen"/>ſons who are engaged in ſetting up a Bank in oppoſition to me, will certainly bear me down by an Intereſt too powerful for me to withſtand, yet I think my ſelf ſecure in Your Honours Juſtice and Im<g ref="char:EOLhyphen"/>partiality, and in aſſurance thereof I ſhall (God willing) proceed upon what I have undertaken, not doubting but with Your Honours Aſſiſtance to ſurmount all thoſe Difficulties, which the Ignorance of ſome, and Envy of others, may lay in my way. I beg leave to ſubſcribe my ſelf.</p>
+               <closer>
+                  <signed>Your Honours most Humble and most obedient Servant, <hi>John Briſcoe</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="advice">
+               <head>Advice to the Free-Holder.</head>
+               <p>THoſe who have made an Eſtimate of the Yearly Eſtates and Money of the King<g ref="char:EOLhyphen"/>dom, have computed the former to be worth above 300 Millions, and the latter not above 5 Millions in value; and yet it is moſt certain and apparent, That <hi>thoſe who have the 5 Millions, have more Credit, and are of greater account than thoſe who are the Owners and Proprietors of the 300 Millions,</hi> and the Landed-Men are Servants to the Monied-men, ſo far as the Borrower may be ſaid to be a Servant to the Lender. Now for<g ref="char:EOLhyphen"/>aſmuch as this is moſt undoubtedly true, and Matter of Fact, I ſhall endeavour (with as much Brevity as I can) to ſhew the Freeholder.
+<pb n="6" facs="tcp:42653:4"/>
+                  <list>
+                     <item>From whence this great Inequality ariſes.</item>
+                     <item>The <g ref="char:V">Ʋ</g>nreaſonableneſs of this Inequality. <hi>And</hi>
+                     </item>
+                     <item>Propoſe Proper Expedients to remedy it.</item>
+                  </list>
+               </p>
+               <p>The Firſt and Principal Reaſon of this great Inequality, proceeds from a miſtake in making Gold and Silver the only <hi>Medium</hi> of our Trade and Commerce; and conſequent<g ref="char:EOLhyphen"/>ly a <hi>Living Stock</hi> to the Owners thereof, while the <hi>Land of <hi>England</hi> is a Dead Stock</hi> to the Proprietors: For tho a Gentleman may have a conſiderable Eſtate in Land, yet he re<g ref="char:EOLhyphen"/>ceives no Profit or Advantage thereby, but the bare accruing Income of ſuch Eſtate, and if he wants 2000 or 3000<hi>l.</hi> altho he have an Eſtate in Land worth 20000<hi>l.</hi> yet he cannot be ſupplied out of his own Eſtate, but is forced to borrow of others at high Intereſt and with no ſmall expence of Time and Money, in examining his Title, drawing Writ<g ref="char:EOLhyphen"/>ings, <hi>&amp;c.</hi> which eats into the very heart and Bowels of his Eſtate. And for this Reaſon Gentlemen whoſe Eſtates are in Land, have but little (if any) Credit for their Eſtates, being (as hath been obſerved) <hi>a Dead Stock,</hi> upon which they cannot raiſe Money, but with great Charge and Difficulty, none care to truſt them, becauſe it does not appear how they ſhall be payed: For ſuppoſe a Gentleman be ſuperlatively honeſt, and willing to diſcharge his Obligations, yet the Nature of his Eſtate (if it be in Land) is ſuch, that if his Debts are greater than his yearly Income will diſcharge, he is uncapable of paying them, unleſs he engages his Land, which beſides the Charge, does often terminate in the ruin of him and his Eſtate.</p>
+               <p>Another Reaſon of this Inequality, is the different Tempers of the Landed and the Monied-Men occaſioned in ſome Meaſure, from the different Circumſtances of their Eſtates; for Gold and Silver, tho living-Stocks, yet lying in the Cheſt, are dead Eſtates: being no longer profitable than when they are circulating, which puts the Monied-Men upon Exerciſing their Wits, making them ſharp and quick-ſighted, and ready to lay hold of any Thing that offers which may tend to their Advantage. For In<g ref="char:EOLhyphen"/>ſtance, when the Parliament paſſed an Act, granting a Bank to the Subſcribers of 1200000<hi>l.</hi> no ſooner were the Books laid open to receive Subſcriptions, but the ſame was filled up in 10 or 12 Days ſpace; not a Fund is ſettled by Parliament, but if a Million or more in Money be wanting, it is preſently raiſed, and paid in by the Monied-Men upon the leaſt Encouragement, and without asking many Queſtions: by which Means, ſeveral of them have raiſed conſiderable Eſtates ſince the War began. On the other Hand, the Landed Men living commonly remote from, and conſequently being Strangers to Buſineſs, are contented with the Product of their Land, and if they can keep both Ends together they think they do well, and take little or no care of farther Improvements; which makes them commonly regardleſs of, and deaf unto all Propoſals that are made for the advancing their Eſtates. And tho they ought not to be blamed for a prudent Cautiouſneſs, how they em<g ref="char:EOLhyphen"/>baraſs themſelves, or their Eſtates with Things they do not underſtand, being ſenſible how difficult it is to get clear when they are once incumber'd; yet I think ſuch again are very much wanting to themſelves who reject every Offer that is made them for their Advantage, without examining whether it be reaſonable, or whether they may ſafely cloſe with it.</p>
+               <p>Having briefly enquired into the Cauſes, I ſhall proceed to ſhew the Unreaſonableneſs of this Inequality, which I will do by a plain and familiar Inſtance or Example.</p>
+               <p>Suppoſe then <hi>A</hi> hath an Ingot of Gold worth 1000<hi>l. B</hi> hath a Bar of Silver worth as much, and <hi>C</hi> hath 100 Acres of Land of the like value; the Gold or Silver in one entire piece is uſeleſs, and will yeild no Profit or Advantage to <hi>A</hi> or <hi>B,</hi> while the 100 Acres of Land which <hi>C</hi> hath in one entire piece or parcel yield him Paſture for Cattle, Timber, Fire-wood, <hi>&amp;c.</hi> without any Charge beſtowed upon it. Now what Rational Man will not prefer the 100 Acres of Land before the Gold or Silver, which will produce more Profit to the Proprietor than 10000 ſuch Barrs or Ingots? the one being a living, the other dead Eſtates. And therefore any Perſon who knew not to what uſes Gold and Sil<g ref="char:EOLhyphen"/>ver are converted, would doubtleſs believe <hi>C</hi> to be out of his Senſes, to borrow of <hi>A</hi> or <hi>B</hi> one half of the ſaid Gold, or Silver, and to make over his 100 Acres of Land for Security to reſtore the ſame, and to give 30<hi>l. per Annum</hi> for the uſe of it, beſides other Charges; and yet this is the conſtant and daily practice of all ſuch, who take up Money upon the Se<g ref="char:EOLhyphen"/>curity of their Eſtates. Now if we examine into the Reaſon thereof, it is no more than this: The Legiſlative Power hath made Gold and Silver to be the only <hi>Medium</hi> of Trade and Commerce, and hath thereby turned thoſe which before were dead Commodities into <hi>liv<g ref="char:EOLhyphen"/>ing Stocks,</hi> which for the greater Convenience of Trade are carried to the Mint, where they are divided into ſeveral needful Parts, and the Stamp of Authority impreſſed upon them; While the Land which is a living Eſtate, for want of being made a <hi>Medium</hi> of Trade and Commerce as Gold and Silver are, remains a <hi>dead Stock,</hi> to the great Damage of the Own<g ref="char:EOLhyphen"/>ners and Proprietors.</p>
+               <pb n="7" facs="tcp:42653:4"/>
+               <p>To Remedy which I propoſed to the honourable Houſe of Commons the laſt Seſſions of Parliament, to make Land, as well as Gold and Silver, a <hi>Medium</hi> of Trade and Com<g ref="char:EOLhyphen"/>merce, and offer'd ſeveral Reaſons for the ſame; ſhewing how Land may in all reſpects be made as uſeful as Gold or Silver for ſuch Purpoſes, but foreſeeing I ſhould meet with very great Difficulties to get an Act for making Land a <hi>Medium</hi> of Trade, I thereupon applyed my ſelf to make it a <hi>Fund of Credit,</hi> which was the purport of the Bill that was under the Conſideration of the Houſe of Commons, and is the Deſign of my preſent Propoſals.</p>
+               <p>To accompliſh which I have propoſed, that ſince no ſingle Man's Eſtate is a Fund ſufficient for a Bank,</p>
+               <list>
+                  <item>1. That Gentlemen may ſubſcribe their Eſtates to the Value of 100000<hi>l. per annum</hi> at leaſt, by which Subſcriptions they oblige neither themſelves nor their Eſtates.</item>
+                  <item>2. That when ſuch yearly Value is Subſcribed, the major Part of the Subſcribers ſhould meet together to chooſe Truſtees, Directors, <hi>&amp;c,</hi> whom they may alſo diſplace at pleaſure.</item>
+                  <item>3. That when the Truſtees and Directors ſhall be choſen, the Methods of Managment ſhall be declared, which if approved of, ſuch Subſcribers as pleaſe may ſettle their Eſtates upon the Truſtees of their own chooſing; and thoſe who ſhall not ſettle their Eſtates, will be at no Charge nor Trouble, but writing their Names, and meeting once to chooſe Truſtees, Directors, <hi>&amp;c.</hi>
+                  </item>
+                  <item>4. That no Eſtate which ſhall be ſettled ſhall be chargeable for more than what the Party ſettling it ſhall take up of the Bank.</item>
+                  <item>5. That any Perſon who ſhall ſettle his Eſtate, may have up his Deed of Settlement on demand, if nothing be owing upon it, or upon Payment of what is due to the Bank.</item>
+                  <item>6: That the Profits of the Bank ſhall be divided among all the Subſcribers in propor<g ref="char:EOLhyphen"/>tion to their ſeveral Subſcriptions.</item>
+                  <item>7. That any Subſcriber after the Settlement of his Eſtate, may have at any time 3 fourth Parts of the Value of his Eſtate at 3<hi>l.</hi> 0<hi>s</hi> 10<hi>d. per cent. per annum,</hi> and pay in all, or any Part of the ſame whenſoever he pleaſes.</item>
+                  <item>8. That the Intereſt paid by the Subſcribers to the Bank, being part of the Profits of the Bank, ſuch Subſcribers who pay Intereſt to the Bank, will have their proportionable Part of the Intereſt paid them back again, which they paid into the Bank.</item>
+               </list>
+               <p>I might ſay much of the Advantages that will ariſe to landed-Men by this propoſed Method. But it may ſuffice to ſay, they will be accommodated with Money at eaſy In<g ref="char:EOLhyphen"/>tereſt for the ſupply of their Occaſions, and tho their Eſtates are not made a <hi>Medium</hi> of Trade, yet they will be a ſecure and certain Fund, and will conſequently raiſe them ſuch a Credit, which without this Method it is impoſſible they ſhould ever attain unto: for tho a <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>deſman may ſcruple to take a Gentleman's Note for 1000<hi>l.</hi> tho he knows the Gentleman is worth 1000<hi>l. per annum,</hi> becauſe he knows the difficulty Gentlemen meet with to raiſe ſuch a Sum out of their Eſtates, yet none will queſtion his Bill for 5 times ſuch a Sum, when he is ſatisfied he hath an Eſtate ſettled, upon which he may have 15000<hi>l.</hi> at an Hour's warning; it being an undoubted Truth, that <hi>none have ſo much Credit as thoſe who stand in leaſt need of it;</hi> and therefore it was well obſerved by the Poet.
+<q>
+                     <l>Quantum quiſque ſua nummorum ſervat in Arca</l>
+                     <l>Tantum habet &amp; fidei.</l>
+                  </q>
+               </p>
+               <p>There being therefore ſo ſmall a Matter required of the landed Men, as only to ſub<g ref="char:EOLhyphen"/>ſcribe their Names, and to meet once to chooſe Truſtees, Managers, <hi>&amp;c.</hi> by which (as hath been already ſaid) they are put to no charge, nor lay themſelves nor their Eſtates under any Obligation by ſuch their Subſcriptions; and ſince they are likely to receive ſo great Advantage by theſe Propoſals I hope they will expedite the filling up the propoſed Fund of 100000<hi>l. per annum,</hi> by their ready Subſcribing. However their be<g ref="char:EOLhyphen"/>ing Eſtates already ſubſcribed to a <hi>Million</hi> Value. I fully determine to give the Sub<g ref="char:EOLhyphen"/>ſcribers notice in the printed News-Papers, to meet the 10<hi>th</hi> of <hi>September</hi> next at fartheſt, to chooſe Truſtees, Directors, <hi>&amp;c.</hi> to whom I ſhall then Communicat my Methods of Management, and doubt not but to convince the World that there is no ſuch great Diffi<g ref="char:EOLhyphen"/>culty in raiſing Money to perform what I have propoſed, as ſome who are Enemies to my Propoſal, would ſuggeſt.</p>
+               <closer>
+                  <signed>J. B.</signed>
+               </closer>
+            </div>
+            <div type="account">
+               <pb n="8" facs="tcp:42653:5"/>
+               <head>An <hi>ACCOUNT</hi> of the Value of the Eſtates in the <hi>Several Counties</hi> ſubſcribed towards the <hi>FUND</hi> for a <hi>NATIONAL LAND-BANK,</hi> from Thurſday the 11<hi>th</hi> of <hi>June,</hi> to Saturday the 27<hi>th</hi> of <hi>July,</hi> 1695.</head>
+               <p>THe Books of Subſcription for a <hi>Fund</hi> for a <hi>National Land-Bank</hi> being laid open the 11<hi>th</hi> of <hi>Jun<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> at Night, and the propoſals mentioning, <hi>that an Account ſhall be publiſh'd every Month, of the yearly Value of the Eſtates ſubſcribed:</hi> It is thought fit to print and publiſh the ſame the firſt and third <hi>Mondays</hi> in every Month, untill one hundred thouſand pounds <hi>per annum,</hi> or two Millions in Value, ſhall be ſubſcribed, of which there are Subſcriptions for fifty one thouſand four hundred and thirty eight pounds <hi>per annum,</hi> to the Value of about one Million, in the ſeveral Counties following, <hi>viz.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label" cols="2">
+                           <hi>l.</hi> per annum.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Bedford</hi>
+                        </cell>
+                        <cell>575</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Berks</hi>
+                        </cell>
+                        <cell>118</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Buckingham</hi>
+                        </cell>
+                        <cell>590</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Cambridge</hi>
+                        </cell>
+                        <cell>850</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Cheſhire</hi>
+                        </cell>
+                        <cell>1800</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Cornwal</hi>
+                        </cell>
+                        <cell>850</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Cumberland</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Derby</hi>
+                        </cell>
+                        <cell>155</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Devon</hi>
+                        </cell>
+                        <cell>2030</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Dorſet</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Durham</hi>
+                        </cell>
+                        <cell>1171</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Eſſex</hi>
+                        </cell>
+                        <cell>4755</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Gloceſter</hi>
+                        </cell>
+                        <cell>793</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hantſhire</hi>
+                        </cell>
+                        <cell>850</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hereford</hi>
+                        </cell>
+                        <cell>1021</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hertford</hi>
+                        </cell>
+                        <cell>490</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Huntington</hi>
+                        </cell>
+                        <cell>1065</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Kent</hi>
+                        </cell>
+                        <cell>3911</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lancaſhire,</hi>
+                        </cell>
+                        <cell>50</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Leiceſter</hi>
+                        </cell>
+                        <cell>420</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lincoln</hi>
+                        </cell>
+                        <cell>2335</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>London</hi> &amp; <hi>Middleſ.</hi>
+                        </cell>
+                        <cell>10173</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Monmouth</hi>
+                        </cell>
+                        <cell>686</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Norfolk</hi>
+                        </cell>
+                        <cell>2642</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Northampton</hi>
+                        </cell>
+                        <cell>1400</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Nottingham</hi>
+                        </cell>
+                        <cell>240</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Northumberland</hi>
+                        </cell>
+                        <cell>1180</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Oxon</hi>
+                        </cell>
+                        <cell>550</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rutland</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Salop</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Somerſet</hi>
+                        </cell>
+                        <cell>300</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Stafford</hi>
+                        </cell>
+                        <cell>1530</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Suffolk</hi>
+                        </cell>
+                        <cell>300</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Suſſex</hi>
+                        </cell>
+                        <cell>515</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Surry</hi>
+                        </cell>
+                        <cell>1275</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Warwick</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Weſtmoreland</hi>
+                        </cell>
+                        <cell>22</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Wiltſhire</hi>
+                        </cell>
+                        <cell>240</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Worceſter</hi>
+                        </cell>
+                        <cell>210</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Yorkſhire</hi>
+                        </cell>
+                        <cell>4001</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Angleſey</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Brecon</hi>
+                        </cell>
+                        <cell>1000</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Cardigan</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Carmarthen</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Carnarven</hi>
+                        </cell>
+                        <cell>15</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Denbigh</hi>
+                        </cell>
+                        <cell>686</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Flint</hi>
+                        </cell>
+                        <cell>24</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Glamorgan</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Merioneth</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Mountgomery</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Pembrook</hi>
+                        </cell>
+                        <cell>20</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Radnor</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">51438</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Note,</hi> That any Gentleman, though never ſo re<g ref="char:EOLhyphen"/>mote, may, purſuant to the Propoſals, authorize an<g ref="char:EOLhyphen"/>other to ſubſcribe his Eſtate.</p>
+               <closer>
+                  <signed>JOHN BRISCOE.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <p>The Subſcription-Books continue to ly open at <hi>Thomas Gooding,</hi> Serjeant at Law, his Chambers in <hi>Grays-Inn:</hi> At <hi>Philip Neave</hi> Eſq; his Chambers, the ſecond Stair caſe Paper-Buildings in the <hi>Inner-Temple:</hi> At <hi>Lawrence Braddon</hi> Eſq; his Chambers, Number 4. the Second Stair-Caſe at the New Square at <hi>Lincolns-inn:</hi> At the Houſe of <hi>Robert West</hi> Eſq; the Corner of <hi>Buckingham-Court</hi> near <hi>Scotland-yard:</hi> At Mr. <hi>John Smith</hi>'s in <hi>Exchange Alley:</hi> at Mr <hi>Humphreys Hackſhaw</hi>'s in <hi>Lothbury</hi> near the <hi>Royal-Exchange;</hi> and at Mr. <hi>Nicholas Hayward</hi>'s Publick Notary in <hi>Thread-needle-street</hi> behind the <hi>Royal Exchange,</hi> And at Mr. <hi>Samuel Briggs</hi> Scrivener in <hi>Guildhall-yard London.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Reprinted by <hi>George Moſman,</hi> by order of JOSEPH BLAKE of LONDON, then reſideing there, 1695.</p>
+            <pb facs="tcp:42653:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
